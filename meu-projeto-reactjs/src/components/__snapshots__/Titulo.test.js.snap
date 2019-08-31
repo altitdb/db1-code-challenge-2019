@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shallow tests Deveria renderizar de acordo com o título 1`] = `
+<h1
+  style={
+    Object {
+      "backgroundColor": "yellow",
+      "color": undefined,
+    }
+  }
+>
+  Meu título
+</h1>
+`;
